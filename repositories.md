@@ -30,6 +30,10 @@
 ## SJTU Course repositories
 ### MIL&MARX 军事理论&红课
 > Course repository for MIL&MARX courses at Shanghai Jiao Tong University.
+> - MIL1201_2023-2024-1: 军事理论 (Military Theory)
+> - MARX1202_2023-2024-1: 近代史纲要 (Outline of Modern History)
+> - MARX1219_2023-2024-2：习近平新时代中国特色社会主义思想概论 (Introduction to Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era)
+> - MARX1208_2024-2025-1: 思想道德与法治 (Ideological and Moral Cultivation and Legal Basis)
 - **Link**: [MIL&MARX](https://github.com/youyeyejie/MIL-MARX)
 - **Tags**:
     - Private
@@ -153,7 +157,7 @@
 
 ## Other repositories
 ### Xflops
-> Learning materials for SJTU Supercomputing team XFLOPS.
+> A repository containing learning materials for the SJTU Supercomputing team XFLOPS.
 - **Link**: [Xflops](https://github.com/youyeyejie/Xflops)
 - **Tags**:
     - - Private
@@ -161,21 +165,21 @@
     - Assignments
 
 ### Practise luogu
-> Practise in luogu.
+> A repository for practise in luogu.
 - **Link**: [Practise_luogu](https://github.com/youyeyejie/Practise_luogu)
 - **Tags**:
     - Private
     - Practise
 
 ### Practise leetcode
-> Practise in leetcode.
+> A repository for practise in leetcode.
 - **Link**: [Practise_leetcode](https://github.com/youyeyejie/Practise_leetcode)
 - **Tags**:
     - Private
     - Practise
 
 ### Practise For C++
-> Practise for C++.
+> A repository for practise in C++.
 - **Link**: [Practise](https://github.com/youyeyejie/Practise)
 - **Tags**:
     - Private
