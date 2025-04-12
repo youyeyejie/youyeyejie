@@ -32,7 +32,7 @@
 > Course repository for MIL&MARX courses at Shanghai Jiao Tong University.
 > - MIL1201_2023-2024-1: 军事理论 (Military Theory)
 > - MARX1202_2023-2024-1: 近代史纲要 (Outline of Modern History)
-> - MARX1219_2023-2024-2：习近平新时代中国特色社会主义思想概论 (Introduction to Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era)
+> - MARX1219_2023-2024-2: 习近平新时代中国特色社会主义思想概论 (Introduction to Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era)
 > - MARX1208_2024-2025-1: 思想道德与法治 (Ideological and Moral Cultivation and Legal Basis)
 - **Link**: [MIL&MARX](https://github.com/youyeyejie/MIL-MARX)
 - **Tags**:
