@@ -13,6 +13,7 @@
     - [NIS2334 操作系统原理](#nis2334-操作系统原理)
     - [NIS2337 信息论基础](#nis2337-信息论基础)
     - [NIS4307 人工智能导论](#nis4307-人工智能导论)
+    - [EE1503 工程实际与科技创新I](#ee1503-工程实际与科技创新i)
     - [EE0503 工程实际与科技创新II](#ee0503-工程实际与科技创新ii)
 - [Project repositories](#project-repositories)
     - [SJTU Exam Schedule to ICS Converter](#sjtu-exam-schedule-to-ics-converter)
@@ -130,6 +131,14 @@
     - Python
     - Jupyter Notebook
 
+### EE1503 工程实际与科技创新I
+> Course repository for EE1503 工程实际与科技创新I (Engineering Practice and Technological Innovation I) at Shanghai Jiao Tong University.
+- **Link**: [EE1503_2023-2024-2](https://github.com/youyeyejie/EE1503_2023-2024-2)
+- **Tags**:
+    - Private
+    - Assignments
+    - Projects
+    - C++
 
 ### EE0503 工程实际与科技创新II
 > Course repository for EE0503 工程实际与科技创新II (Engineering Practice and Technological Innovation II) at Shanghai Jiao Tong University.
