@@ -80,7 +80,7 @@
 > Course repository for NIS2301 网络空间安全及法律法规 (Cybersecurity and Laws and Regulations) at Shanghai Jiao Tong University.
 - **Link**: [NIS2301_2024-2025-1](https://github.com/youyeyejie/NIS2301_2024-2025-1)
 - **Tags**:
-    - Private
+    - Public
     - Notes
     - Assignments
     - Markdown
@@ -115,7 +115,7 @@
 > Course repository for NIS2337 信息论基础 (Information Theory) at Shanghai Jiao Tong University.
 - **Link**: [NIS2337_2024-2025-2](https://github.com/youyeyejie/NIS2337_2024-2025-2)
 - **Tags**:
-    - Private
+    - Public
     - Notes
     - Markdown
 
