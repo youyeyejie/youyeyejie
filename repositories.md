@@ -1,30 +1,8 @@
 # YYYJ's Repositories<!-- omit in toc -->
 
+
 ---
-- [SJTU Course repositories](#sjtu-course-repositories)
-    - [MIL\&MARX 军事理论\&红课](#milmarx-军事理论红课)
-    - [CS1001 程序设计思想与方法（C++）](#cs1001-程序设计思想与方法c)
-    - [CS0501 数据结构](#cs0501-数据结构)
-    - [MATH1207 概率统计](#math1207-概率统计)
-    - [NIS1336 计算机编程实践](#nis1336-计算机编程实践)
-    - [NIS2301 网络空间安全及法律法规](#nis2301-网络空间安全及法律法规)
-    - [NIS2331 计算机组成与系统结构](#nis2331-计算机组成与系统结构)
-    - [NIS2332 嵌入式及FPGA实验](#nis2332-嵌入式及fpga实验)
-    - [NIS2334 操作系统原理](#nis2334-操作系统原理)
-    - [NIS2337 信息论基础](#nis2337-信息论基础)
-    - [NIS4307 人工智能导论](#nis4307-人工智能导论)
-    - [EE1503 工程实际与科技创新I](#ee1503-工程实际与科技创新i)
-    - [EE0503 工程实际与科技创新II](#ee0503-工程实际与科技创新ii)
-- [Project repositories](#project-repositories)
-    - [SJTU Exam Schedule to ICS Converter](#sjtu-exam-schedule-to-ics-converter)
-    - [SJTU Course Schedule to ICS Converter](#sjtu-course-schedule-to-ics-converter)
-    - [SJTU box opener](#sjtu-box-opener)
-    - [Auto Backup](#auto-backup)
-- [Other repositories](#other-repositories)
-    - [Xflops](#xflops)
-    - [Practise luogu](#practise-luogu)
-    - [Practise leetcode](#practise-leetcode)
-    - [Practise For C++](#practise-for-c)
+[TOC]
 
 ---
 
@@ -36,6 +14,17 @@
 > - MARX1219_2023-2024-2: 习近平新时代中国特色社会主义思想概论 (Introduction to Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era)
 > - MARX1208_2024-2025-1: 思想道德与法治 (Ideological and Moral Cultivation and Legal Basis)
 - **Link**: [MIL&MARX](https://github.com/youyeyejie/MIL-MARX)
+- **Tags**:
+    - Private
+    - Notes
+    - Markdown
+
+### PHY 大学物理
+> Course repository for PHY courses at Shanghai Jiao Tong University.
+> - PHY1251_2023-2024-1: 大学物理I (University Physics I)
+> - PHY1252_2023-2024-2: 大学物理II (University Physics II)
+> - PHY1253_2024-2025-1: 大学物理III (University Physics III)
+- **Link**: [PHY](https://github.com/youyeyejie/PHY)
 - **Tags**:
     - Private
     - Notes
@@ -58,6 +47,14 @@
     - Assignments
     - Practise
     - C++
+
+### CS2501 离散数学
+> Course repository for CS2501 离散数学 (Discrete Mathematics) at Shanghai Jiao Tong University.
+- **Link**: [CS2501_2024-2025-1](https://github.com/youyeyejie/CS2501_2024-2025-1)
+- **Tags**:
+    - Private
+    - Notes
+    - Markdown
 
 ### MATH1207 概率统计
 > Course repository for MATH1207 概率统计 (Probability and Statistics) at Shanghai Jiao Tong University.
@@ -130,6 +127,14 @@
     - Markdown
     - Python
     - Jupyter Notebook
+
+### ICE2501 信号与系统
+> Course repository for ICE2501 信号与系统 (Signals and Systems) at Shanghai Jiao Tong University.
+- **Link**: [ICE2501_2024-2025-2](https://github.com/youyeyejie/ICE2501_2024-2025-2)
+- **Tags**:
+    - Private
+    - Notes
+    - Markdown
 
 ### EE1503 工程实际与科技创新I
 > Course repository for EE1503 工程实际与科技创新I (Engineering Practice and Technological Innovation I) at Shanghai Jiao Tong University.
