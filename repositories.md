@@ -1,8 +1,33 @@
 # YYYJ's Repositories<!-- omit in toc -->
 
-
 ---
-[TOC]
+- [SJTU Course repositories](#sjtu-course-repositories)
+    - [MIL\&MARX 军事理论\&红课](#milmarx-军事理论红课)
+    - [PHY 大学物理](#phy-大学物理)
+    - [CS1001 程序设计思想与方法（C++）](#cs1001-程序设计思想与方法c)
+    - [CS0501 数据结构](#cs0501-数据结构)
+    - [CS2501 离散数学](#cs2501-离散数学)
+    - [MATH1207 概率统计](#math1207-概率统计)
+    - [NIS1336 计算机编程实践](#nis1336-计算机编程实践)
+    - [NIS2301 网络空间安全及法律法规](#nis2301-网络空间安全及法律法规)
+    - [NIS2331 计算机组成与系统结构](#nis2331-计算机组成与系统结构)
+    - [NIS2332 嵌入式及FPGA实验](#nis2332-嵌入式及fpga实验)
+    - [NIS2334 操作系统原理](#nis2334-操作系统原理)
+    - [NIS2337 信息论基础](#nis2337-信息论基础)
+    - [NIS4307 人工智能导论](#nis4307-人工智能导论)
+    - [ICE2501 信号与系统](#ice2501-信号与系统)
+    - [EE1503 工程实际与科技创新I](#ee1503-工程实际与科技创新i)
+    - [EE0503 工程实际与科技创新II](#ee0503-工程实际与科技创新ii)
+- [Project repositories](#project-repositories)
+    - [SJTU Exam Schedule to ICS Converter](#sjtu-exam-schedule-to-ics-converter)
+    - [SJTU Course Schedule to ICS Converter](#sjtu-course-schedule-to-ics-converter)
+    - [SJTU box opener](#sjtu-box-opener)
+    - [Auto Backup](#auto-backup)
+- [Other repositories](#other-repositories)
+    - [Xflops](#xflops)
+    - [Practise luogu](#practise-luogu)
+    - [Practise leetcode](#practise-leetcode)
+    - [Practise For C++](#practise-for-c)
 
 ---
 
