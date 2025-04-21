@@ -4,7 +4,7 @@
 - [SJTU Course repositories](#sjtu-course-repositories)
     - [MIL\&MARX 军事理论\&红课](#milmarx-军事理论红课)
     - [PHY 大学物理](#phy-大学物理)
-    - [CS1001 程序设计思想与方法（C++）](#cs1001-程序设计思想与方法c)
+    - [CS1001 程序设计思想与方法](#cs1001-程序设计思想与方法)
     - [CS0501 数据结构](#cs0501-数据结构)
     - [CS2501 离散数学](#cs2501-离散数学)
     - [MATH1207 概率统计](#math1207-概率统计)
@@ -55,7 +55,7 @@
     - Notes
     - Markdown
 
-### CS1001 程序设计思想与方法（C++）
+### CS1001 程序设计思想与方法
 > Course repository for CS1001 程序设计思想与方法（C++） (Programming Ideas and Methods) at Shanghai Jiao Tong University.
 - **Link**: [CS1001_2023-2024-1](https://github.com/youyeyejie/CS1001_2023-2024-1)
 - **Tags**:
