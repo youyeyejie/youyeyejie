@@ -2,22 +2,25 @@
 
 ---
 - [SJTU Course repositories](#sjtu-course-repositories)
-    - [MIL\&MARX 军事理论\&红课](#milmarx-军事理论红课)
-    - [PHY 大学物理](#phy-大学物理)
     - [CS1001 程序设计思想与方法](#cs1001-程序设计思想与方法)
     - [CS0501 数据结构](#cs0501-数据结构)
     - [CS2501 离散数学](#cs2501-离散数学)
+    - [EE1503 工程实际与科技创新I](#ee1503-工程实际与科技创新i)
+    - [EE0503 工程实际与科技创新II](#ee0503-工程实际与科技创新ii)
+    - [ICE2501 信号与系统](#ice2501-信号与系统)
+    - [MATH 高等数学](#math-高等数学)
+    - [MATH1205 线性代数](#math1205-线性代数)
     - [MATH1207 概率统计](#math1207-概率统计)
+    - [MIL\&MARX 军事理论\&红课](#milmarx-军事理论红课)
     - [NIS1336 计算机编程实践](#nis1336-计算机编程实践)
     - [NIS2301 网络空间安全及法律法规](#nis2301-网络空间安全及法律法规)
     - [NIS2331 计算机组成与系统结构](#nis2331-计算机组成与系统结构)
     - [NIS2332 嵌入式及FPGA实验](#nis2332-嵌入式及fpga实验)
+    - [NIS2333 信息安全数学基础(1)——近世代数](#nis2333-信息安全数学基础1近世代数)
     - [NIS2334 操作系统原理](#nis2334-操作系统原理)
     - [NIS2337 信息论基础](#nis2337-信息论基础)
     - [NIS4307 人工智能导论](#nis4307-人工智能导论)
-    - [ICE2501 信号与系统](#ice2501-信号与系统)
-    - [EE1503 工程实际与科技创新I](#ee1503-工程实际与科技创新i)
-    - [EE0503 工程实际与科技创新II](#ee0503-工程实际与科技创新ii)
+    - [PHY 大学物理](#phy-大学物理)
 - [Project repositories](#project-repositories)
     - [SJTU Exam Schedule to ICS Converter](#sjtu-exam-schedule-to-ics-converter)
     - [SJTU Course Schedule to ICS Converter](#sjtu-course-schedule-to-ics-converter)
@@ -32,28 +35,6 @@
 ---
 
 ## SJTU Course repositories
-### MIL&MARX 军事理论&红课
-> Course repository for MIL&MARX courses at Shanghai Jiao Tong University.
-> - MIL1201_2023-2024-1: 军事理论 (Military Theory)
-> - MARX1202_2023-2024-1: 近代史纲要 (Outline of Modern History)
-> - MARX1219_2023-2024-2: 习近平新时代中国特色社会主义思想概论 (Introduction to Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era)
-> - MARX1208_2024-2025-1: 思想道德与法治 (Ideological and Moral Cultivation and Legal Basis)
-- **Link**: [MIL&MARX](https://github.com/youyeyejie/MIL-MARX)
-- **Tags**:
-    - Private
-    - Notes
-    - Markdown
-
-### PHY 大学物理
-> Course repository for PHY courses at Shanghai Jiao Tong University.
-> - PHY1251_2023-2024-1: 大学物理I (University Physics I)
-> - PHY1252_2023-2024-2: 大学物理II (University Physics II)
-> - PHY1253_2024-2025-1: 大学物理III (University Physics III)
-- **Link**: [PHY](https://github.com/youyeyejie/PHY)
-- **Tags**:
-    - Private
-    - Notes
-    - Markdown
 
 ### CS1001 程序设计思想与方法
 > Course repository for CS1001 程序设计思想与方法（C++） (Programming Ideas and Methods) at Shanghai Jiao Tong University.
@@ -81,13 +62,70 @@
     - Notes
     - Markdown
 
+### EE1503 工程实际与科技创新I
+> Course repository for EE1503 工程实际与科技创新I (Engineering Practice and Technological Innovation I) at Shanghai Jiao Tong University.
+- **Link**: [EE1503_2023-2024-2](https://github.com/youyeyejie/EE1503_2023-2024-2)
+- **Tags**:
+    - Private
+    - Assignments
+    - Projects
+    - C++
+
+### EE0503 工程实际与科技创新II
+> Course repository for EE0503 工程实际与科技创新II (Engineering Practice and Technological Innovation II) at Shanghai Jiao Tong University.
+- **Link**: [EE0503_2024-2025-2](https://github.com/youyeyejie/EE0503_2024-2025-2)
+- **Tags**:
+    - Private
+    - Assignments
+    - CTF
+
+### ICE2501 信号与系统
+> Course repository for ICE2501 信号与系统 (Signals and Systems) at Shanghai Jiao Tong University.
+- **Link**: [ICE2501_2024-2025-2](https://github.com/youyeyejie/ICE2501_2024-2025-2)
+- **Tags**:
+    - Private
+    - Notes
+    - Markdown
+
+### MATH 高等数学
+> Course repository for MATH courses at Shanghai Jiao Tong University.
+> - MATH1201_2023-2024-1: 高等数学Ⅰ (Advanced Mathematics Ⅰ)
+> - MATH1202_2023-2024-2: 高等数学Ⅱ (Advanced Mathematics Ⅱ)
+- **Link**: [MATH](https://github.com/youyeyejie/MATH)
+- **Tags**:
+    - Private
+    - Notes
+    - Markdown
+
+### MATH1205 线性代数
+> Course repository for MATH1205 线性代数 (Linear Algebra) at Shanghai Jiao Tong University.
+- **Link**: [MATH1205_2023-2024-1](https://github.com/youyeyejie/MATH1205_2023-2024-1)
+- **Tags**:
+    - Private
+    - Notes
+    - Thesis
+    - Markdown
+
 ### MATH1207 概率统计
 > Course repository for MATH1207 概率统计 (Probability and Statistics) at Shanghai Jiao Tong University.
 - **Link**: [MATH1207_2024-2025-1](https://github.com/youyeyejie/MATH1207_2024-2025-1)
 - **Tags**:
     - Private
     - Thesis
+    - Notes
     - \(\LaTeX\)
+
+### MIL&MARX 军事理论&红课
+> Course repository for MIL&MARX courses at Shanghai Jiao Tong University.
+> - MIL1201_2023-2024-1: 军事理论 (Military Theory)
+> - MARX1202_2023-2024-1: 近代史纲要 (Outline of Modern History)
+> - MARX1219_2023-2024-2: 习近平新时代中国特色社会主义思想概论 (Introduction to Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era)
+> - MARX1208_2024-2025-1: 思想道德与法治 (Ideological and Moral Cultivation and Legal Basis)
+- **Link**: [MIL&MARX](https://github.com/youyeyejie/MIL-MARX)
+- **Tags**:
+    - Private
+    - Notes
+    - Markdown
 
 ### NIS1336 计算机编程实践
 > Course repository for NIS1336 计算机编程实践 (Computer Programming Practice) at Shanghai Jiao Tong University.
@@ -124,6 +162,14 @@
     - Teamwork
     - C
 
+### NIS2333 信息安全数学基础(1)——近世代数
+> Course repository for NIS2333 信息安全数学基础(1)——近世代数 (Mathematical Foundations of Information Security (1) - Modern Algebra) at Shanghai Jiao Tong University.
+- **Link**: [NIS2333_2024-2025-2](https://github.com/youyeyejie/NIS2333_2024-2025-2)
+- **Tags**:
+    - Private
+    - Notes
+    - Markdown
+
 ### NIS2334 操作系统原理
 > Course repository for NIS2334 操作系统原理 (Operating System Principles) at Shanghai Jiao Tong University.
 - **Link**: [NIS2334_2024-2025-2](https://github.com/youyeyejie/NIS2334_2024-2025-2)
@@ -153,30 +199,16 @@
     - Python
     - Jupyter Notebook
 
-### ICE2501 信号与系统
-> Course repository for ICE2501 信号与系统 (Signals and Systems) at Shanghai Jiao Tong University.
-- **Link**: [ICE2501_2024-2025-2](https://github.com/youyeyejie/ICE2501_2024-2025-2)
+### PHY 大学物理
+> Course repository for PHY courses at Shanghai Jiao Tong University.
+> - PHY1251_2023-2024-1: 大学物理Ⅰ (University Physics Ⅰ)
+> - PHY1252_2023-2024-2: 大学物理Ⅱ (University Physics Ⅱ)
+> - PHY1253_2024-2025-1: 大学物理Ⅲ (University Physics Ⅲ)
+- **Link**: [PHY](https://github.com/youyeyejie/PHY)
 - **Tags**:
     - Private
     - Notes
     - Markdown
-
-### EE1503 工程实际与科技创新I
-> Course repository for EE1503 工程实际与科技创新I (Engineering Practice and Technological Innovation I) at Shanghai Jiao Tong University.
-- **Link**: [EE1503_2023-2024-2](https://github.com/youyeyejie/EE1503_2023-2024-2)
-- **Tags**:
-    - Private
-    - Assignments
-    - Projects
-    - C++
-
-### EE0503 工程实际与科技创新II
-> Course repository for EE0503 工程实际与科技创新II (Engineering Practice and Technological Innovation II) at Shanghai Jiao Tong University.
-- **Link**: [EE0503_2024-2025-2](https://github.com/youyeyejie/EE0503_2024-2025-2)
-- **Tags**:
-    - Private
-    - Assignments
-    - CTF
 
 ## Project repositories
 ### SJTU Exam Schedule to ICS Converter
@@ -208,6 +240,7 @@
     - Python
 
 ## Other repositories
+
 ### Xflops
 > A repository containing learning materials for the SJTU Supercomputing team XFLOPS.
 - **Link**: [Xflops](https://github.com/youyeyejie/Xflops)
