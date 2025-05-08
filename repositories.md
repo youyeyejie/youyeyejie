@@ -18,6 +18,7 @@
     - [NIS2332 嵌入式及FPGA实验](#nis2332-嵌入式及fpga实验)
     - [NIS2333 信息安全数学基础(1)——近世代数](#nis2333-信息安全数学基础1近世代数)
     - [NIS2334 操作系统原理](#nis2334-操作系统原理)
+    - [NIS2336 编译原理](#nis2336-编译原理)
     - [NIS2337 信息论基础](#nis2337-信息论基础)
     - [NIS4307 人工智能导论](#nis4307-人工智能导论)
     - [PHY 大学物理](#phy-大学物理)
@@ -178,6 +179,16 @@
     - Labs
     - Assignments
     - C
+
+### NIS2336 编译原理
+> Course repository for NIS2336 编译原理 (Compiler Principles) at Shanghai Jiao Tong University.
+- **Link**: [NIS2336_2024-2025-2](https://github.com/youyeyejie/NIS2336_2024-2025-2)
+- **Tags**:
+    - Private
+    - Labs
+    - Notes
+    - C
+    - Markdown
 
 ### NIS2337 信息论基础
 > Course repository for NIS2337 信息论基础 (Information Theory) at Shanghai Jiao Tong University.
