@@ -132,7 +132,7 @@
 > Course repository for NIS1336 计算机编程实践 (Computer Programming Practice) at Shanghai Jiao Tong University.
 - **Link**: [NIS1336_2023-2024-3](https://github.com/youyeyejie/NIS1336_2023-2024-3)
 - **Tags**:
-    - Private
+    - Public
     - Projects
     - Teamwork
     - C++
