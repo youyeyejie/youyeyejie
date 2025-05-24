@@ -201,7 +201,7 @@
 ### NIS4307 人工智能导论
 > Course repository for NIS4307 人工智能导论 (Introduction to Artificial Intelligence) at Shanghai Jiao Tong University.
 - **Link**: [NIS4307_2024-2025-2](https://github.com/youyeyejie/NIS4307_2024-2025-2)
-- **Submodule**: [NIS4307_RumorDetect](https://github.com/youyeyejie/NIS4307_RumorDetect)
+- **Submodule Link**: [NIS4307_RumorDetect](https://github.com/youyeyejie/NIS4307_RumorDetect)
 - **Tags**:
     - Private
     - Assignments
