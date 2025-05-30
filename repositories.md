@@ -157,8 +157,9 @@
 ### NIS2332 嵌入式及FPGA实验
 > Course repository for NIS2332 嵌入式及FPGA实验 (Embedded Systems and FPGA Experiments) at Shanghai Jiao Tong University.
 - **Link**: [NIS2332_2024-2025-2](https://github.com/youyeyejie/NIS2332)
+- **Submodule Link**: [NIS2332_GreedySnake_STM32](https://github.com/youyeyejie/NIS2332_GreedySnake_STM32)
 - **Tags**:
-    - Private
+    - Private & Public submodule
     - Projects
     - Teamwork
     - C
