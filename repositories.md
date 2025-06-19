@@ -27,6 +27,7 @@
     - [SJTU Course Schedule to ICS Converter](#sjtu-course-schedule-to-ics-converter)
     - [SJTU box opener](#sjtu-box-opener)
     - [Auto Backup](#auto-backup)
+    - [My Blog](#my-blog)
 - [Other repositories](#other-repositories)
     - [Xflops](#xflops)
     - [Practise luogu](#practise-luogu)
@@ -252,6 +253,15 @@
 - **Tags**:
     - Private
     - Python
+
+### My Blog
+> A repository for my blog.
+- **Link**: [youyeyejie_blog](https://github.com/youyeyejie/youyeyejie_blog)
+- **Blog Link**: https://youyeyejie.github.io
+- **Tags**:
+    - Blog
+    - Hexo
+    - Fluid
 
 ## Other repositories
 
