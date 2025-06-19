@@ -2,9 +2,9 @@
 Here is Youyeyejie, an undergraduate student from the School of Cyber Security, Shanghai Jiao Tong University.
 
 ## 🔗 Quick Links
-📋 Click here to view my [list of repositories](./repositories.md).
+📋 Click here to view my [list of repositories.](./repositories.md)
 
-🌐 Click here to visit my [blog](https://youyeyejie.github.io)
+🌐 Click here to visit my [blog.](https://youyeyejie.github.io)
 
 🖼️ My gallery is under construction.
 
