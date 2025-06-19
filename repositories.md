@@ -122,6 +122,7 @@
 > - MARX1202_2023-2024-1: 近代史纲要 (Outline of Modern History)
 > - MARX1219_2023-2024-2: 习近平新时代中国特色社会主义思想概论 (Introduction to Xi Jinping's Thought on Socialism with Chinese Characteristics for a New Era)
 > - MARX1208_2024-2025-1: 思想道德与法治 (Ideological and Moral Cultivation and Legal Basis)
+> - MARX1204_2024-2025-2: 马克思主义基本原理 (Fundamentals of Marxism)
 - **Link**: [MIL&MARX](https://github.com/youyeyejie/MIL-MARX)
 - **Tags**:
     - Private
@@ -176,7 +177,7 @@
 > Course repository for NIS2334 操作系统原理 (Operating System Principles) at Shanghai Jiao Tong University.
 - **Link**: [NIS2334_2024-2025-2](https://github.com/youyeyejie/NIS2334_2024-2025-2)
 - **Tags**:
-    - Private
+    - Public
     - Labs
     - Assignments
     - C
@@ -185,7 +186,7 @@
 > Course repository for NIS2336 编译原理 (Compiler Principles) at Shanghai Jiao Tong University.
 - **Link**: [NIS2336_2024-2025-2](https://github.com/youyeyejie/NIS2336_2024-2025-2)
 - **Tags**:
-    - Private
+    - Public
     - Labs
     - Notes
     - C
@@ -204,7 +205,7 @@
 - **Link**: [NIS4307_2024-2025-2](https://github.com/youyeyejie/NIS4307_2024-2025-2)
 - **Submodule Link**: [NIS4307_RumorDetect](https://github.com/youyeyejie/NIS4307_RumorDetect)
 - **Tags**:
-    - Private
+    - Private & Public submodule
     - Assignments
     - Projects
     - Teamwork
