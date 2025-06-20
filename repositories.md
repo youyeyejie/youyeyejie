@@ -256,8 +256,8 @@
 
 ### My Blog
 > A repository for my blog.
-- **Link**: [youyeyejie_blog](https://github.com/youyeyejie/youyeyejie_blog)
-- **Blog Link**: https://youyeyejie.github.io
+- **Link**: [youyeyejie_blog](https://github.com/youyeyejie/youyeyejie_blog) & [youyeyejie.github.io](https://github.com/youyeyejie/youyeyejie.github.io)
+- **Youyeyejie's Blog**: https://youyeyejie.github.io
 - **Tags**:
     - Blog
     - Hexo
