@@ -20,6 +20,7 @@
     - [NIS2334 操作系统原理](#nis2334-操作系统原理)
     - [NIS2336 编译原理](#nis2336-编译原理)
     - [NIS2337 信息论基础](#nis2337-信息论基础)
+    - [NIS3302 信息安全科技创新](#nis3302-信息安全科技创新)
     - [NIS4307 人工智能导论](#nis4307-人工智能导论)
     - [PHY 大学物理](#phy-大学物理)
 - [Project repositories](#project-repositories)
@@ -200,6 +201,16 @@
     - Public
     - Notes
     - Markdown
+
+### NIS3302 信息安全科技创新
+> Course repository for NIS3302 信息安全科技创新 (Information Security Technology Innovation) at Shanghai Jiao Tong University.
+- **Link**: [NIS3302_2024-2025-3](https://github.com/youyeyejie/NIS3302_2024-2025-3)
+- **Tags**:
+    - Private
+    - Projects
+    - Teamwork
+    - Python
+    - Vue
 
 ### NIS4307 人工智能导论
 > Course repository for NIS4307 人工智能导论 (Introduction to Artificial Intelligence) at Shanghai Jiao Tong University.
