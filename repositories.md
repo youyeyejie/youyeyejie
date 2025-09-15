@@ -21,6 +21,7 @@
     - [NIS2336 编译原理](#nis2336-编译原理)
     - [NIS2337 信息论基础](#nis2337-信息论基础)
     - [NIS3302 信息安全科技创新](#nis3302-信息安全科技创新)
+    - [NIS3368 安全模型开发及安全编程](#nis3368-安全模型开发及安全编程)
     - [NIS4307 人工智能导论](#nis4307-人工智能导论)
     - [PHY 大学物理](#phy-大学物理)
 - [Project repositories](#project-repositories)
@@ -211,6 +212,16 @@
     - Teamwork
     - Python
     - Vue
+
+### NIS3368 安全模型开发及安全编程
+> Course repository for NIS3368 安全模型开发及安全编程 (Security Model Development and Secure Programming) at Shanghai Jiao Tong University.
+- **Link**: [NIS3368_2025-2026-1](https://github.com/youyeyejie/NIS3368_2025-2026-1)
+- **Tags**:
+    - Private
+    - Notes
+    - HTML/CSS/JS
+    - Django
+    - Markdown
 
 ### NIS4307 人工智能导论
 > Course repository for NIS4307 人工智能导论 (Introduction to Artificial Intelligence) at Shanghai Jiao Tong University.
