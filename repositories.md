@@ -20,7 +20,11 @@
     - [NIS2334 操作系统原理](#nis2334-操作系统原理)
     - [NIS2336 编译原理](#nis2336-编译原理)
     - [NIS2337 信息论基础](#nis2337-信息论基础)
+    - [NIS3301 系统安全](#nis3301-系统安全)
     - [NIS3302 信息安全科技创新](#nis3302-信息安全科技创新)
+    - [NIS3351 数据库原理及安全](#nis3351-数据库原理及安全)
+    - [NIS3364 计算机网络](#nis3364-计算机网络)
+    - [NIS3365 密码学基础Ⅰ](#nis3365-密码学基础ⅰ)
     - [NIS3368 安全模型开发及安全编程](#nis3368-安全模型开发及安全编程)
     - [NIS4307 人工智能导论](#nis4307-人工智能导论)
     - [PHY 大学物理](#phy-大学物理)
@@ -203,6 +207,14 @@
     - Notes
     - Markdown
 
+### NIS3301 系统安全
+> Course repository for NIS3301 系统安全 (System Security) at Shanghai Jiao Tong University.
+- **Link**: [NIS3301_2024-2025-3](https://github.com/youyeyejie/NIS3301_2024-2025-3)
+- **Tags**:
+    - Private
+    - Projects
+    - Python
+
 ### NIS3302 信息安全科技创新
 > Course repository for NIS3302 信息安全科技创新 (Information Security Technology Innovation) at Shanghai Jiao Tong University.
 - **Link**: [NIS3302_2024-2025-3](https://github.com/youyeyejie/NIS3302_2024-2025-3)
@@ -212,6 +224,32 @@
     - Teamwork
     - Python
     - Vue
+
+### NIS3351 数据库原理及安全
+> Course repository for NIS3351 数据库原理及安全 (Database Principles and Security) at Shanghai Jiao Tong University.
+- **Link**: [NIS3351_2024-2025-3](https://github.com/youyeyejie/NIS3351_2024-2025-3)
+- **Tags**:
+    - Private
+    - Notes
+    - Markdown
+
+### NIS3364 计算机网络
+> Course repository for NIS3364 计算机网络 (Computer Networks) at Shanghai Jiao Tong University.
+- **Link**: [NIS3364_2025-2026-1](https://github.com/youyeyejie/NIS3364_2025-2026-1)
+- **Tags**:
+    - Private
+    - Notes
+    - Markdown
+    - Projects
+    - Python
+
+### NIS3365 密码学基础Ⅰ
+> Course repository for NIS3365 密码学基础Ⅰ (Cryptography Fundamentals I) at Shanghai Jiao Tong University.
+- **Link**: [NIS3365_2025-2026-1](https://github.com/youyeyejie/NIS3365_2025-2026-1)
+- **Tags**:
+    - Private
+    - Notes
+    - Markdown
 
 ### NIS3368 安全模型开发及安全编程
 > Course repository for NIS3368 安全模型开发及安全编程 (Security Model Development and Secure Programming) at Shanghai Jiao Tong University.
