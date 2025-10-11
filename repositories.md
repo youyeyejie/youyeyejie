@@ -209,7 +209,7 @@
 
 ### NIS3301 系统安全
 > Course repository for NIS3301 系统安全 (System Security) at Shanghai Jiao Tong University.
-- **Link**: [NIS3301_2024-2025-3](https://github.com/youyeyejie/NIS3301_2024-2025-3)
+- **Link**: [NIS3301_2024-2025-3](https://github.com/youyeyejie/NIS3301_2025-2026-1)
 - **Tags**:
     - Private
     - Projects
@@ -227,7 +227,7 @@
 
 ### NIS3351 数据库原理及安全
 > Course repository for NIS3351 数据库原理及安全 (Database Principles and Security) at Shanghai Jiao Tong University.
-- **Link**: [NIS3351_2024-2025-3](https://github.com/youyeyejie/NIS3351_2024-2025-3)
+- **Link**: [NIS3351_2024-2025-3](https://github.com/youyeyejie/NIS3351_2025-2026-1)
 - **Tags**:
     - Private
     - Notes
