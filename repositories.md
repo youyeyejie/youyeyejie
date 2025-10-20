@@ -5,8 +5,8 @@
     - [CS1001 程序设计思想与方法](#cs1001-程序设计思想与方法)
     - [CS0501 数据结构](#cs0501-数据结构)
     - [CS2501 离散数学](#cs2501-离散数学)
-    - [EE1503 工程实际与科技创新Ⅰ](#ee1503-工程实际与科技创新ⅰ)
     - [EE0503 工程实际与科技创新Ⅱ](#ee0503-工程实际与科技创新ⅱ)
+    - [EE1503 工程实际与科技创新Ⅰ](#ee1503-工程实际与科技创新ⅰ)
     - [ICE2501 信号与系统](#ice2501-信号与系统)
     - [MATH 高等数学](#math-高等数学)
     - [MATH1205 线性代数](#math1205-线性代数)
@@ -28,6 +28,7 @@
     - [NIS3365 密码学基础Ⅰ](#nis3365-密码学基础ⅰ)
     - [NIS3368 安全模型开发及安全编程](#nis3368-安全模型开发及安全编程)
     - [NIS4307 人工智能导论](#nis4307-人工智能导论)
+    - [NIS4335 信息安全综合实践Ⅱ](#nis4335-信息安全综合实践ⅱ)
     - [PHY 大学物理](#phy-大学物理)
 - [Project repositories](#project-repositories)
     - [SJTU Exam Schedule to ICS Converter](#sjtu-exam-schedule-to-ics-converter)
@@ -71,6 +72,14 @@
     - Notes
     - Markdown
 
+### EE0503 工程实际与科技创新Ⅱ
+> Course repository for EE0503 工程实际与科技创新Ⅱ (Engineering Practice and Technological Innovation II) at Shanghai Jiao Tong University.
+- **Link**: [EE0503_2024-2025-2](https://github.com/youyeyejie/EE0503_2024-2025-2)
+- **Tags**:
+    - Private
+    - Assignments
+    - CTF
+
 ### EE1503 工程实际与科技创新Ⅰ
 > Course repository for EE1503 工程实际与科技创新Ⅰ (Engineering Practice and Technological Innovation Ⅰ) at Shanghai Jiao Tong University.
 - **Link**: [EE1503_2023-2024-2](https://github.com/youyeyejie/EE1503_2023-2024-2)
@@ -79,14 +88,6 @@
     - Assignments
     - Projects
     - C++
-
-### EE0503 工程实际与科技创新Ⅱ
-> Course repository for EE0503 工程实际与科技创新Ⅱ (Engineering Practice and Technological Innovation II) at Shanghai Jiao Tong University.
-- **Link**: [EE0503_2024-2025-2](https://github.com/youyeyejie/EE0503_2024-2025-2)
-- **Tags**:
-    - Private
-    - Assignments
-    - CTF
 
 ### ICE2501 信号与系统
 > Course repository for ICE2501 信号与系统 (Signals and Systems) at Shanghai Jiao Tong University.
@@ -282,6 +283,14 @@
     - Markdown
     - Python
     - Jupyter Notebook
+
+### NIS4335 信息安全综合实践Ⅱ
+> Course repository for NIS4335 信息安全综合实践Ⅱ (Information Security Comprehensive Practice II) at Shanghai Jiao Tong University.
+- **Link**: [NIS4335_2025-2026-1](https://github.com/youyeyejie/NIS4335_2025-2026-1)
+- **Tags**:
+    - Private
+    - Assignments
+    - CTF
 
 ### PHY 大学物理
 > Course repository for PHY courses at Shanghai Jiao Tong University.
