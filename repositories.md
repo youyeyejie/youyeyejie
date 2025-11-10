@@ -38,6 +38,7 @@
     - [My Blog](#my-blog)
 - [Other repositories](#other-repositories)
     - [Xflops](#xflops)
+    - [ExaGeoStatCPP](#exageostatcpp)
     - [Practise luogu](#practise-luogu)
     - [Practise leetcode](#practise-leetcode)
     - [Practise For C++](#practise-for-c)
@@ -230,8 +231,9 @@
 ### NIS3351 数据库原理及安全
 > Course repository for NIS3351 数据库原理及安全 (Database Principles and Security) at Shanghai Jiao Tong University.
 - **Link**: [NIS3351_2024-2025-3](https://github.com/youyeyejie/NIS3351_2025-2026-1)
+- **Submodule Link**: [NIS3351_SQLite_VecLite_Extension](https://github.com/youyeyejie/NIS3351_SQLite_VecLite_Extension/)
 - **Tags**:
-    - Private
+    - Private & Public submodule
     - Notes
     - Markdown
 
@@ -350,6 +352,13 @@
     - Private
     - Notes
     - Assignments
+
+### ExaGeoStatCPP
+> A repository for ExaGeoStatCPP in IndySCC25 ECE topic.
+- **Link**: [ExaGeoStatCPP](https://github.com/youyeyejie/ExaGeoStatCPP)
+- **Tags**:
+    - Private
+    - C++
 
 ### Practise luogu
 > A repository for practise in luogu.
