@@ -1,6 +1,4 @@
-# YYYJ's Repositories<!-- omit in toc -->
-
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=2 orderedList=false} -->
+# YYYJ's Repositories
 
 ---
 - [SJTU Course repositories](#sjtu-course-repositories)
@@ -168,8 +166,9 @@
 
 ### NIS2332 嵌入式及FPGA实验
 > Course repository for NIS2332 嵌入式及FPGA实验 (Embedded Systems and FPGA Experiments) at Shanghai Jiao Tong University.
-- **Link**: [NIS2332_2024-2025-2](https://github.com/youyeyejie/NIS2332_2024-2025-2)
-- **Submodule Link**: [NIS2332_GreedySnake_STM32](https://github.com/youyeyejie/NIS2332_GreedySnake_STM32)
+- **Link**:
+    - [NIS2332_2024-2025-2](https://github.com/youyeyejie/NIS2332_2024-2025-2)
+    - [NIS2332_GreedySnake_STM32](https://github.com/youyeyejie/NIS2332_GreedySnake_STM32)
 - **Tags**:
     - Projects
     - Teamwork
@@ -231,8 +230,9 @@
 
 ### NIS3351 数据库原理及安全
 > Course repository for NIS3351 数据库原理及安全 (Database Principles and Security) at Shanghai Jiao Tong University.
-- **Link**: [NIS3351_2024-2025-3](https://github.com/youyeyejie/NIS3351_2025-2026-1)
-- **Submodule Link**: [NIS3351_SQLite_VecLite_Extension](https://github.com/youyeyejie/NIS3351_SQLite_VecLite_Extension/)
+- **Link**:
+    - [NIS3351_2024-2025-3](https://github.com/youyeyejie/NIS3351_2025-2026-1)
+    - [NIS3351_SQLite_VecLite_Extension](https://github.com/youyeyejie/NIS3351_SQLite_VecLite_Extension/)
 - **Tags**:
     - Notes
     - Markdown
@@ -246,8 +246,9 @@
 
 ### NIS3355 算法（计算）复杂度分析
 > Course repository for NIS3355 算法（计算）复杂度分析 (Algorithm and Computational Complexity Analysis) at Shanghai Jiao Tong University.
-- **Link**: [NIS3355_2024-2025-1](https://github.com/youyeyejie/NIS3355_2025-2026-1)
-- **Submodule Link**: [NIS3355_Simple_Paxos](https://github.com/youyeyejie/NIS3355_Simple_Paxos)
+- **Link**:
+    - [NIS3355_2024-2025-1](https://github.com/youyeyejie/NIS3355_2025-2026-1)
+    - [NIS3355_Simple_Paxos](https://github.com/youyeyejie/NIS3355_Simple_Paxos)
 - **Tags**:
     - Notes
     - Markdown
@@ -264,8 +265,9 @@
 
 ### NIS3364 计算机网络
 > Course repository for NIS3364 计算机网络 (Computer Networks) at Shanghai Jiao Tong University.
-- **Link**: [NIS3364_2025-2026-1](https://github.com/youyeyejie/NIS3364_2025-2026-1)
-- **Submodule Link**: [NIS3364_Network_Sniffer](https://github.com/youyeyejie/NIS3364_Network_Sniffer)
+- **Link**:
+    - [NIS3364_2025-2026-1](https://github.com/youyeyejie/NIS3364_2025-2026-1)
+    - [NIS3364_Network_Sniffer](https://github.com/youyeyejie/NIS3364_Network_Sniffer)
 - **Tags**:
     - Notes
     - Markdown
@@ -300,8 +302,9 @@
 
 ### NIS4307 人工智能导论
 > Course repository for NIS4307 人工智能导论 (Introduction to Artificial Intelligence) at Shanghai Jiao Tong University.
-- **Link**: [NIS4307_2024-2025-2](https://github.com/youyeyejie/NIS4307_2024-2025-2)
-- **Submodule Link**: [NIS4307_RumorDetect](https://github.com/youyeyejie/NIS4307_RumorDetect)
+- **Link**:
+    - [NIS4307_2024-2025-2](https://github.com/youyeyejie/NIS4307_2024-2025-2)
+    - [NIS4307_RumorDetect](https://github.com/youyeyejie/NIS4307_RumorDetect)
 - **Tags**:
     - Assignments
     - Projects
@@ -399,7 +402,9 @@
 ## Other repositories
 ### My Blog
 > A repository for my blog.
-- **Link**: [youyeyejie_blog](https://github.com/youyeyejie/youyeyejie_blog) & [youyeyejie.github.io](https://github.com/youyeyejie/youyeyejie.github.io)
+- **Link**:
+    - [youyeyejie_blog](https://github.com/youyeyejie/youyeyejie_blog)
+    - [youyeyejie.github.io](https://github.com/youyeyejie/youyeyejie.github.io)
 - **Youyeyejie's Blog**: https://youyeyejie.github.io
 - **Tags**:
     - Blog
