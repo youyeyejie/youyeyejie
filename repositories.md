@@ -70,7 +70,7 @@
 ### CS0501 数据结构
 > Course repository for CS0501 数据结构 (Data Structures) at Shanghai Jiao Tong University.
 - **Link**: [CS0501_2023-2024-2](https://github.com/youyeyejie/CS0501_2023-2024-2)
-- **Tags**:
+- **标签**:
     - Assignments
     - Practise
     - C++
@@ -284,8 +284,9 @@
 ### NIS3366 项目管理与软件设计
 > Course repository for NIS3366 项目管理与软件设计 (Project Management and Software Design) at Shanghai Jiao Tong University.
 - **Link**:
-    - [鸿蒙商城](https://github.com/youyeyejie/NIS3366_HarmonyOS_MyShoppingApp)
-    - [知行 Acthub](https://github.com/youyeyejie/NIS3366_ZhiXing_ActHub)
+    - [课程设计1-鸿蒙商城](https://github.com/youyeyejie/NIS3366_HarmonyOS_MyShoppingApp)
+    - [课程设计2-知行 ActHub](https://github.com/youyeyejie/NIS3366_ZhiXing_ActHub)
+    - [知行 Acthub](https://github.com/youyeyejie/ZhiXing_ActHub)
 - **Tags**:
     - Projects
     - Teamwork
