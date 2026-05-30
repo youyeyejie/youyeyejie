@@ -70,7 +70,7 @@
 ### CS0501 数据结构
 > Course repository for CS0501 数据结构 (Data Structures) at Shanghai Jiao Tong University.
 - **Link**: [CS0501_2023-2024-2](https://github.com/youyeyejie/CS0501_2023-2024-2)
-- **标签**:
+- **Tags**:
     - Assignments
     - Practise
     - C++
@@ -411,6 +411,15 @@
     - Blog
     - Hexo
     - Fluid
+
+### My SJTU Course Notes
+> A repository for my notes of SJTU courses.
+- **Link**: [SJTUnotes](https://github.com/youyeyejie/SJTUnotes)
+- **YYYJ's SJTU Course Notes**: https://github.com/youyeyejie/SJTUnotes/
+- **Tags**:
+    - Notes
+    - Markdown
+    - MkDocs
 
 ### My Config
 > A repository for my config files.
