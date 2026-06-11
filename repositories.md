@@ -25,7 +25,9 @@
     - [NIS3329 信息安全数学基础Ⅱ](#nis3329-信息安全数学基础Ⅱ)
     - [NIS3351 数据库原理及安全](#nis3351-数据库原理及安全)
     - [NIS3352 现代密码学Ⅱ](#nis3352-现代密码学Ⅱ)
+    - [NIS3353 人工智能安全技术](#nis3353-人工智能安全技术)
     - [NIS3355 算法（计算）复杂度分析](#nis3355-算法计算复杂度分析)
+    - [NIS3356 信息内容安全](#nis3356-信息内容安全)
     - [NIS3363 机器学习](#nis3363-机器学习)
     - [NIS3364 计算机网络](#nis3364-计算机网络)
     - [NIS3365 密码学基础Ⅰ](#nis3365-密码学基础ⅰ)
@@ -244,6 +246,12 @@
     - Notes
     - Markdown
 
+### NIS3353 人工智能安全技术
+> Course repository for NIS3353 人工智能安全技术 (Artificial Intelligence Security Technology) at Shanghai Jiao Tong University.
+- **Link**: [NIS3353_2025-2026-2](https://github.com/youyeyejie/NIS3353_2025-2026-2)
+- **Tags**:
+    - report
+
 ### NIS3355 算法（计算）复杂度分析
 > Course repository for NIS3355 算法（计算）复杂度分析 (Algorithm and Computational Complexity Analysis) at Shanghai Jiao Tong University.
 - **Link**:
@@ -252,6 +260,15 @@
 - **Tags**:
     - Notes
     - Markdown
+
+### NIS3356 信息内容安全
+> Course repository for NIS3356 信息内容安全 (Information Content Security) at Shanghai Jiao Tong University.
+- **Link**:
+    - [NIS3356_2025-2026-2](https://github.com/youyeyejie/NIS3356_2025-2026-2)
+    - [VoxSapiens](https://github.com/wsm25/VoxSapiens)
+- **Tags**:
+    - Labs
+    - Python
 
 ### NIS3363 机器学习
 > Course repository for NIS3363 机器学习 (Machine Learning) at Shanghai Jiao Tong University.
