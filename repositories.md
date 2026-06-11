@@ -50,7 +50,10 @@
     - [WBC-MIA](#wbc-mia)
 - [Other repositories](#other-repositories)
     - [My Blog](#my-blog)
+    - [My SJTU Course Notes](#my-sjtu-course-notes)
     - [My Config](#my-config)
+    - [My Resume](#my-resume)
+    - [My SJTU Semester Summary](#my-sjtu-semester-summary)
     - [Xflops](#xflops)
     - [ExaGeoStatCPP](#exageostatcpp)
     - [Practise luogu](#practise-luogu)
@@ -444,6 +447,19 @@
 - **Tags**:
     - Config
     - Dotfiles
+
+### My Resume
+> A repository for my resume.
+- **Link**: [Resume](https://github.com/youyeyejie/Resume)
+- **Tags**:
+    - Resume
+    - \(\LaTeX\)
+
+### My SJTU Semester Summary
+> A repository for my semester summary of SJTU courses.
+- **Link**: [SJTU_Semester_Summary](https://github.com/youyeyejie/SJTU_Semester_Summary)
+- **Tags**:
+    - \(\LaTeX\)
 
 ### Xflops
 > A repository containing learning materials for the SJTU Supercomputing team XFLOPS.
