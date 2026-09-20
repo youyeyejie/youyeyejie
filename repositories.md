@@ -56,8 +56,8 @@
     - [My SJTU Semester Summary](#my-sjtu-semester-summary)
     - [Xflops](#xflops)
     - [ExaGeoStatCPP](#exageostatcpp)
+    - [Leetcode Hot 100](#leetcode-hot-100)
     - [Practise luogu](#practise-luogu)
-    - [Practise leetcode](#practise-leetcode)
     - [Practise For C++](#practise-for-c)
 
 ---
@@ -468,16 +468,16 @@
     - Notes
     - Assignments
 
+### Leetcode Hot 100
+> A repository for the Leetcode Hot 100 problems.
+- **Link**: [Leetcode_Hot_100](https://github.com/youyeyejie/Leetcode_Hot_100)
+- **Tags**:
+    - Leetcode
+    - Python
+
 ### Practise luogu
 > A repository for practise in luogu.
 - **Link**: [Practise_luogu](https://github.com/youyeyejie/Practise_luogu)
-- **Tags**:
-    - Practise
-    - C++
-
-### Practise leetcode
-> A repository for practise in leetcode.
-- **Link**: [Practise_leetcode](https://github.com/youyeyejie/Practise_leetcode)
 - **Tags**:
     - Practise
     - C++
