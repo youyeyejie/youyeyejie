@@ -424,9 +424,10 @@
 ### My Blog
 > A repository for my blog.
 - **Link**:
-    - [youyeyejie_blog](https://github.com/youyeyejie/youyeyejie_blog)
     - [youyeyejie.github.io](https://github.com/youyeyejie/youyeyejie.github.io)
-- **Youyeyejie's Blog**: https://youyeyejie.github.io
+    - [Blog](https://github.com/youyeyejie/Blog)
+    - [Blog_sourcecode](https://github.com/youyeyejie/Blog_sourcecode)
+- **Youyeyejie's Blog**: https://youyeyejie.github.io/Blog
 - **Tags**:
     - Blog
     - Hexo
